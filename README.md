@@ -1,1 +1,1 @@
-# godot-sfreet-fighter
+# godot-street-fighter
